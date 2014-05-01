@@ -1,0 +1,116 @@
+body{
+	font-family:Arial;
+	font-size:0.9em;
+}
+
+input[type=text]{
+	height:18px;
+	padding-left:2px;
+	border: 1px solid #919191; 
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+a:link {color:#4383A0;}
+a:visited {color:#4383A0;}
+a:hover {color:#4CB5AC;}
+a:active {color:#FF0000;}
+
+#siteUrls input{
+	margin-bottom:3px;
+}
+
+#inputForm{
+    padding-left:15px;
+}
+
+#siteUrls{
+    margin-bottom: 10px;
+}
+
+#siteDetailsContainer{
+	line-height:1.8em;
+	width:800px;
+	padding-bottom:10px;
+}
+
+#siteDetailsLeft{
+	width:130px;
+	float:left;
+}
+
+#siteDetailsRight{
+	width:600px;
+	float:left;
+	margin-bottom:15px;
+}
+
+#resultHolder{
+	line-height:1.8em;
+}
+
+.submission{
+	background-color:#E5FFE7;
+	margin-top: 6px;
+    padding: 5px 10px;
+}
+
+.addedURL{
+	width:300px;
+}
+
+.cityField{
+	width: 70px;
+}
+.stateField{
+	width: 70px;
+}
+.countryField{
+	width: 70px;
+}
+
+.spinner{
+    width:16px;
+    height:16px;
+    background-image:url('../images/loading.gif');
+}
+
+.submissionLabel{
+	font-weight:bold;
+	line-height:1.5em;
+}
+
+.noSubmissionsLabel{
+}
+
+input.submitButton{
+	margin-left:30px;
+	font-weight:bold;
+}
+
+/* Tree Comparison popup CSS */
+
+.treeComparisonButton, .treeComparisonButtonLink{
+	float: right;
+}
+
+.treeComparisonBackground{
+    display: none;
+    height: 100%;
+	background-color:rgba(0,0,0,0.3);
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.treeComparisonWindow{
+	display: none;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#FFFFFF;
+	padding:10px 10px 10px 10px;
+	position:fixed;
+	width:900px;
+}

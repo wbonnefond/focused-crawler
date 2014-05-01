@@ -1,0 +1,11 @@
+['http://www.latimes.com/world/worldnow/la-fg-wn-officials-typhoon-haiyan-death-toll-could-soar-to-10000-in-philippines-20131109,0,6461436.story#axzz2kE1iobhU', 'http://www.usatoday.com/story/news/world/2013/11/09/typhoon-haiyan-philippines-vietnam/3483099/']
+[(3.6390573296152584, 414), (3.3978952727983707, 170), (3.1972245773362196, 421), (3.1972245773362196, 328), (3.0794415416798357, 542), (3.0794415416798357, 451), (2.9459101490553135, 410), (2.9459101490553135, 344), (2.9459101490553135, 292), (2.791759469228055, 469)]
+[u'philippin', u'2014', u'photo', u'said', u'time', u'tacloban', u'000', u'death', u'typhoon', u'plu']
+1.0|0.983740702778|http://www.latimes.com/world/worldnow/la-fg-wn-officials-typhoon-haiyan-death-toll-could-soar-to-10000-in-philippines-20131109,0,6461436.story#axzz2kE1iobhU
+1.0|0.689310517638|http://www.usatoday.com/story/news/world/2013/11/09/typhoon-haiyan-philippines-vietnam/3483099/
+0.551032435174|0.571801591942|http://www.latimes.com/world/worldnow/la-fg-typhoon-haiyan-blasts-philippines-pictures,0,1416969.photogallery
+0.502567882061|0.690464179185|http://www.azcentral.com/story/entertainment/music/2014/04/09/arnel-pineda-solo-album-journey/7502133/
+0.502567882061|0.557191396045|http://www.burlingtonfreepress.com/story/life/hometown/2014/04/11/burlington-nurse-returns-from-volunteer-work-in-philippines-with-new-perspective-/7563353/
+5
+10
+3

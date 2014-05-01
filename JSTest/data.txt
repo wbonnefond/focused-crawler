@@ -1,0 +1,2 @@
+hurricane|United States|new jersey|Brooklyn|sandy|29|10|2012
+hurricane|United States|new jersey|Fake town|sandy|29|10|2012

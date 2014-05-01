@@ -1,0 +1,16 @@
+avalanche
+blizzard
+cyclone
+drought
+earthquake
+eruption
+flood
+hailstorm
+hurricane
+landslide
+tornado
+tropical storm
+tsunami
+typhoon
+volcanic eruption
+wildfire
