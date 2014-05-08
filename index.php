@@ -63,7 +63,6 @@ date_default_timezone_set("UTC");
 				$.get('/cgi-bin/src/readtrees.py', function(myContentFile) {
 					var lines = myContentFile.split("\n");
 					var fields = lines[pos-6].split("|");
-					alert(fields);
 
 					// Grab fields from textfile once we have found the matched URL					
 					eventTypeText = fields[1];
